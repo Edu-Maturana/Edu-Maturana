@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Edu-Maturana
-- 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning Backend with Node.js
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I am a JavaScript fullstack developer
+- 🌱 I like keep learning new technologies
+- 💞️ I’m looking to get hired
 - 📫 How to reach me: https://eduardomaturana.netlify.app/
 
 <!---
