@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edu-Maturana
+# 👋 Hi, I’m @Edu-Maturana
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning Backend with Node.js
 - 💞️ I’m looking to collaborate on open source projects
