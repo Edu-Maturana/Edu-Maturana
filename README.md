@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Edu-Maturana
-- 💻 I am a JavaScript developer
+- 💻 I am a Full Stack JavaScript Developer
 - NodeJS lover💚
-- 🌱 I like to keep learning new technologies related to JS
-- 👀 I’m looking to get hired as a backend dev or fullstack dev
+- 🌱 I like to keep learning new technologies. Golang is so cool
+- 👀 I’m looking to get hired as a backend dev or full stack dev
 - 📫 How to reach me: https://eduardomaturana.netlify.app/
 
 <!---
