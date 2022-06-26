@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Edu-Maturana
 
-<img src="https://www.mundoacuicola.cl/new/wp-content/uploads/2019/10/Wherex-Logo.png" style="height: 25px; width:50px;"/> I work as a Full Stack Developer at wherEX
+I work as a Full Stack Developer at [wherEX](https://wherex.cl/)
 
 I love Go <img src="https://styles.redditmedia.com/t5_2rc7j/styles/communityIcon_wy4riduoe9k11.png" style="height: 25px; width:25px;"/>
 
