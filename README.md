@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Edu-Maturana <img src="https://www.mundoacuicola.cl/new/wp-content/uploads/2019/10/Wherex-Logo.png" style="height: 25px; width:25px;"/>
+# 👋 Hi, I’m @Edu-Maturana <img src="https://www.mundoacuicola.cl/new/wp-content/uploads/2019/10/Wherex-Logo.png" style="height: 25px; width:40px;"/>
 
 💻 I work as a Full Stack Developer at wherEX
 
