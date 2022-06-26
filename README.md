@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @Edu-Maturana
 💻 I work as a Full Stack Developer at wherEX
 
+I love Go <img src="https://styles.redditmedia.com/t5_2rc7j/styles/communityIcon_wy4riduoe9k11.png" style="height: 50px; width:50px;"/>
+
 📫 How to reach me:
 
 - [📄 My Portfolio](https://eduardomaturana.netlify.app/)
