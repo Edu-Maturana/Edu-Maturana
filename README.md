@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Edu-Maturana
 
-### Full Stack Developer at [wherEX](https://wherex.cl/)
+### Full Stack Developer
 
 📫 How to reach me:
 
