@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Edu-Maturana
 
-### Full Stack Developer
+### Software Engineer
 
 📫 How to reach me:
 
