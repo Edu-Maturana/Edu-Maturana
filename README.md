@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Edu-Maturana
 
-### Software Engineer
+### Frontend Developer at [SoyFocus](https://www.soyfocus.com/)
 
 📫 How to reach me:
 
